@@ -1,0 +1,2 @@
+# mandara-cnthtml
+MANDARAが出力する連続データのHTMLを加工するコンバーター

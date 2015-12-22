@@ -1,0 +1,40 @@
+body {
+	margin: 0px;
+}
+
+img {
+	width: auto;
+	height: 100%;
+}
+
+.nav-block {
+	position: absolute;
+	top: 10px;
+	right: 10px;
+	background-color: rgba(255,255,255,0.25);
+	border-radius: 10px;
+	box-shadow: 3px 3px rgba(0,0,0,0.3);
+	border-style: solid;
+	border-color: gray black black gray;
+	border-width : 1;
+}
+
+.nav-line {
+	font-size: small;
+	list-style-type: none;
+	padding-left: 0px;
+	margin: 0.5em;
+}
+
+.copyright {
+	position: absolute;
+	bottom: 5px;
+	right: 5px;
+	font-weight: bold;
+	font-size: small;
+	text-shadow: -1px -1px white,
+				1px -1px white,
+				-1px 1px white,
+				1px 1px white;
+}
+

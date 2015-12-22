@@ -11,7 +11,7 @@ img {
 	position: absolute;
 	top: 10px;
 	right: 10px;
-	background-color: rgba(255,255,255,0.25);
+	background-color: rgba(255,255,255,0.5);
 	border-radius: 10px;
 	box-shadow: 3px 3px rgba(0,0,0,0.3);
 	border-style: solid;
@@ -38,3 +38,6 @@ img {
 				1px 1px white;
 }
 
+a {
+	text-decoration: none;
+}

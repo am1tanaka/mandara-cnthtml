@@ -1,0 +1,32 @@
+{
+  "name": "mandara-cont-html",
+  "version": "0.0.1",
+  "description": "- MANDARAが出力する連続データのHTMLを加工するコンバーター - 連続データの変更を地図上に並べる - 地図の著作権表示",
+  "main": "dist/index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/am1tanaka/mandara-cont-html.git"
+  },
+  "keywords": [
+    "mandara"
+  ],
+  "author": "YuTanaka@AmuseOne",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/am1tanaka/mandara-cont-html/issues"
+  },
+  "homepage": "https://github.com/am1tanaka/mandara-cont-html",
+  "dependencies": {
+    "bootstrap": "^3.3.6",
+    "encoding-japanese": "^1.0.24",
+    "jquery": "^2.1.4"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.10.1",
+    "gulp": "^3.9.0",
+    "watchify": "^3.6.1"
+  }
+}

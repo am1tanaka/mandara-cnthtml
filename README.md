@@ -15,3 +15,14 @@
 - gulpは、watchとreloadのみ
 - seleniumでテストを記載
 
+# 出典
+出典の表記。
+
+## 国土地理院
+- 「この地図は、国土地理院発行の5万分1地形図(○○)を使用したものである。」
+- 「国土地理院の電子地形図25000『○○』を掲載」
+- 「国土地理院の電子地形図（タイル）に○○を追記して掲載」
+- 「国土地理院撮影の空中写真（XXXX年撮影）」
+
+## OpenStreetMap
+- <span class='glyphicon glyphicon-copyright-mark' aria-hidden='true'></span> OpenStreetMap contributors
